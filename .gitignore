@@ -1,3 +1,4 @@
 main
 adlist.txt
 *.o
+.idea/
