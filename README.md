@@ -17,4 +17,4 @@ You use this program by executing the compiled file like so:
 > chmod +x primitive_database && ./primitive_database
 
 ## License
-[MIT © HJain13.](../LICENSE)
+[MIT © HJain13.](https://github.com/HJain13/Primitive-Database/blob/master/LICENSE)
